@@ -1,0 +1,15 @@
+.image-grid__item-seven {
+  grid-area: 6 / 10 / span 2 / span 2;
+}
+
+@media screen and (max-width: 710px) {
+  .image-grid__item-seven {
+    grid-area: 5 / 9 / span 2 / span 2;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .image-grid__item-seven {
+    grid-area: 7 / 3 / span 2 / span 2;
+  }
+}

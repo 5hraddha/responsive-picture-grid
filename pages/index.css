@@ -1,0 +1,15 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__wrapper/page__wrapper.css);
+
+@import url(../blocks/image-grid/image-grid.css);
+@import url(../blocks/image-grid/__item/image-grid__item.css);
+@import url(../blocks/image-grid/__item-one/image-grid__item-one.css);
+@import url(../blocks/image-grid/__item-two/image-grid__item-two.css);
+@import url(../blocks/image-grid/__item-three/image-grid__item-three.css);
+@import url(../blocks/image-grid/__item-four/image-grid__item-four.css);
+@import url(../blocks/image-grid/__item-five/image-grid__item-five.css);
+@import url(../blocks/image-grid/__item-six/image-grid__item-six.css);
+@import url(../blocks/image-grid/__item-seven/image-grid__item-seven.css);
+@import url(../blocks/image-grid/__pic/image-grid__pic.css);
